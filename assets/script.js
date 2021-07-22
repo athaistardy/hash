@@ -27,7 +27,8 @@ function itemClick(event) {
 }
 
 function reset() {
-    warning: '';
+    warning = '';
+    
     let random = Math.floor(Math.random() * 2);
 
     player = (random === 0) ? 'x' : 'o';
