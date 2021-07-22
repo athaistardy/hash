@@ -2,7 +2,7 @@
 
 
 
-Projeto desenvolvido durante o evento "7 dias, 7 projetos" da B7Web!
+Projeto 04 desenvolvido durante o evento "7 dias, 7 projetos" da B7Web!
 
 ### Imagem do Projeto:
 
