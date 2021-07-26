@@ -8,6 +8,7 @@ Projeto 04 desenvolvido durante o evento "7 dias, 7 projetos" da B7Web!
 
 ![hash](https://github.com/athaistardy/hash/blob/master/assets/img/jogoDaVelha.PNG)
 
+[Clique aqui](https://athaistardy.github.io/hash/) e veja funcionando!
 
 
 
